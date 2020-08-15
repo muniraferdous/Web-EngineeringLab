@@ -1,0 +1,11 @@
+#ShowFortune {
+    font-size: 29px;
+    font-style: italic bold;
+    color: coral;
+    background-color: navy;
+    padding: 50px;
+    width: 1250px;
+    height: 130px;
+    border: 2px solid darkblue;
+    text-align: center;
+}
