@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+}
+
+body {
+    min-height: 100vh;
+    background-color: aliceblue;
+}
+
+img {
+    height: 400px;
+}
+
+i {
+    font-size: 22px;
+    padding: 5px;
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-bottom: 18px;
+}
